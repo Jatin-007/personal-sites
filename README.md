@@ -291,6 +291,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Jason Du http://dujason.com/
 - Jason Liu http://jxnl.co
 - Jason Park http://jasonpark.me
+- Jatin Suneja https://www.ijatin.ca/
 - Javier Taylor http://javiertaylor.com
 - Jaxon Stevens www.jaxonstevens.com
 - Jay Kamat http://jgkamat.github.io
